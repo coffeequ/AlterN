@@ -1,0 +1,18 @@
+{
+  "name": "altern",
+  "version": "1.0.0",
+  "description": "Дипломная работа",
+  "main": "index.js",
+  "scripts": {
+    "start": ". electron"
+  },
+  "keywords": [
+    "Diplom",
+    "js"
+  ],
+  "author": "Savva Pugach",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^32.1.2"
+  }
+}
